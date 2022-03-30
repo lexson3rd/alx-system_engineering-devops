@@ -1,0 +1,4 @@
+#!/bin/bash
+pwd
+
+wc -l 0-current_working_directory
