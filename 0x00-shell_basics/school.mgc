@@ -1,5 +1,6 @@
 #!/bin/bash
-O string SCHOOL School data
+0 string SCHOOL School data
 !:mime School
-file -c -m School.mgc *
-file --mime-type -m School.mg*
+chmod u+x school magic
+file -C -m my-magic
+file -C -m school.mgc *
